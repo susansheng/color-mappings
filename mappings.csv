@@ -1,6 +1,7 @@
-source,target
-#FF0000,#E53E3E
-#00FF00,#38A169
-#0000FF,#3182CE
+name,target
+Core/Color/Blue/Blue-1,#00CAD9
+Button/Before Ordering,#FA6E0A-#FA4A0A
+Price/Discount,#FA3A0A
+#FF8800-#FF6600,#FA6E0A-#FA4A0A
 #333333,#1A202C
 #FFFFFF,#F7FAFC
