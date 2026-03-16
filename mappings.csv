@@ -1,5 +1,5 @@
 name,target,C_color,Q_color
-Core/Color/Blue/Blue-1,#00CAD9,#006FF6,#00CAD9,,
+Core/Color/Blue/Blue-1,#00CAD9,#006FF6,#00CAD9
 Button/Before Ordering,#FA6E0A-#FA4A0A,#006FF6_1,#FA6E0A_1
 Price/Discount,#FA3A0A,,
 Core/Color/Orange/Orange-1,#FA3A0A,,
@@ -10,8 +10,8 @@ Core/Color/Green/Green-1,#10A366,,
 Tag/POI·#5678A8,#009FAB,,
 Core/Color/BlueGray/BlueGray-4·#869EBF,#9CD4D8,,
 #006FF6-#006FF6,#FA6E0A-#FA4A0A,,
-radius:3,44
-radius:4,44
-radius:6,44
+radius:3,44,,
+radius:4,44,,
+radius:6,44,,
 Core/Color/Blue/Blue-3·#93BFF5,#00D4E310,,
 White,#FFFFFF,,
