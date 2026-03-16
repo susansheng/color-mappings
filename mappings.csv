@@ -1,17 +1,17 @@
-name,target,C_color,Q_color,,
-Core/Color/Blue/Blue-1,#00CAD9,#006FF6_1,#00CAD9,,
-Button/Before Ordering,#FA6E0A-#FA4A0A,#006FF6_2 #006FF6_3,#FA6E0A_2 #FA4A0A_3,,
-#006FF6-#006FF6,#FA6E0A-#FA4A0A,#006FF6_2 #006FF6_3,#FA6E0A_2 #FA4A0A_3,,
-Price/Discount,#FA3A0A,#006FF6_4,#FA3A0A,,
-Core/Color/Orange/Orange-1,#FA3A0A,#FF5500,#FA3A0A,,
-Orange Gradient,#FA6E0A-#FA4A0A,#FF6600 #FF8800,#FA6E0A #FA4A0A ,,
-Core/Color/Blue/Blue-4·#EBF4FF,#00D4E310,#EBF4FF,rgba(0, 212, 227, 0.1),,
-Core/Color/BlueGray/BlueGray-2·#3263A6,#10A366,#3263A6,#10A366,,
-Core/Color/Green/Green-1,#10A366,#06875A,#10A366,,
-Tag/POI·#5678A8,#009FAB,#5678A8,#009FAB,,
-Core/Color/BlueGray/BlueGray-4·#869EBF,#9CD4D8,#869EBF,#9CD4D8,,
-radius:3,44,3,44,,
-radius:4,44,4,44,,
-radius:6,44,6,44,,
-Core/Color/Blue/Blue-3·#93BFF5,#00D4E310,#93BFF5,rgba(0, 212, 227, 0.1),,
-White,#FFFFFF,#FFFFFF,#FFFFFF,,
+name,target,C_color,Q_color
+Core/Color/Blue/Blue-1,#00CAD9,#006FF6_1,#00CAD9
+Button/Before Ordering,#FA6E0A-#FA4A0A,#006FF6_2 #006FF6_3,#FA6E0A_2 #FA4A0A_3
+#006FF6-#006FF6,#FA6E0A-#FA4A0A,#006FF6_2 #006FF6_3,#FA6E0A_2 #FA4A0A_3
+Price/Discount,#FA3A0A,#006FF6_4,#FA3A0A
+Core/Color/Orange/Orange-1,#FA3A0A,#FF5500,#FA3A0A
+Orange Gradient,#FA6E0A-#FA4A0A,#FF6600 #FF8800,#FA6E0A #FA4A0A
+Core/Color/Blue/Blue-4·#EBF4FF,#00D4E310,#EBF4FF,"rgba(0, 212, 227, 0.1)"
+Core/Color/BlueGray/BlueGray-2·#3263A6,#10A366,#3263A6,#10A366
+Core/Color/Green/Green-1,#10A366,#06875A,#10A366
+Tag/POI·#5678A8,#009FAB,#5678A8,#009FAB
+Core/Color/BlueGray/BlueGray-4·#869EBF,#9CD4D8,#869EBF,#9CD4D8
+radius:3,44,3,44
+radius:4,44,4,44
+radius:6,44,6,44
+Core/Color/Blue/Blue-3·#93BFF5,#00D4E310,#93BFF5,"rgba(0, 212, 227, 0.1)"
+White,#FFFFFF,#FFFFFF,#FFFFFF
