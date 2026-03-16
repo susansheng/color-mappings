@@ -1,9 +1,9 @@
 name,target,C_color,Q_color
-Core/Color/Blue/Blue-1,#00CAD9,#006FF6,#00CAD9
-Button/Before Ordering,#FA6E0A-#FA4A0A,#006FF6_1,#FA6E0A_1
-Price/Discount,#FA3A0A,,
-Core/Color/Orange/Orange-1,#FA3A0A,,
-Orange Gradient,#FA6E0A-#FA4A0A,,
+Core/Color/Blue/Blue-1,#00CAD9,#006FF6_1,#00CAD9
+Button/Before Ordering,#FA6E0A-#FA4A0A,#006FF6_2 #006FF6_3,#FA6E0A_2 #FA4A0A_3
+Price/Discount,#FA3A0A,#006FF6_4,#FA3A0A
+Core/Color/Orange/Orange-1,#FA3A0A,#FF5500,#FA3A0A
+Orange Gradient,#FA6E0A-#FA4A0A,#FF6600 #FF8800,#FA6E0A #FA4A0A 
 Core/Color/Blue/Blue-4·#EBF4FF,#00D4E310,,
 Core/Color/BlueGray/BlueGray-2·#3263A6,#10A366,,
 Core/Color/Green/Green-1,#10A366,,
