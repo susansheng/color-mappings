@@ -1,6 +1,6 @@
 name,target,C_color,Q_color
 Core/Color/Blue/Blue-1·#006FF6,#00CAD9,#006FF6_1,#00CAD9
-Button/Before Ordering,#FA6E0A-#FA4A0A,“#006FF6_2 | #006FF6_3”,“#FA6E0A_2 | #FA4A0A_3”
+Button/Before Ordering,#FA6E0A-#FA4A0A,#006FF6_2 | #006FF6_3,#FA6E0A_2 | #FA4A0A_3
 #006FF6-#006FF6,#FA6E0A-#FA4A0A,#006FF6_2 | #006FF6_3,#FA6E0A_2 | #FA4A0A_3
 Price/Discount,#FA3A0A,#006FF6_4,#FA3A0A
 Core/Color/Orange/Orange-1,#FA3A0A,#FF5500,#FA3A0A
